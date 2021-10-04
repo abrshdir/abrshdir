@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abrshdir
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on angular, vuejs and nodejs
+- 🌱 I’m currently learning React and doing project on it.
+- 💞️ I’m looking to collaborate on Angular, Vuejs , Flutter and Nodejs
 - 📫 How to reach me -> abrhamdiriba.ad@gmail.com
 
 <!---
