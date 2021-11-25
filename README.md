@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abrshdir
+- 👋 Hi, I’m Abrham Diriba
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React and doing project on it.
 - 💞️ I’m looking to collaborate on Angular, Vuejs , Flutter and Nodejs
