@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abrham Diriba
 - 👀 I’m interested in programming and UI/UX.
-- 🌱 I’m currently learning AI Engineering.
+- 🌱 I’m currently learning web3.
 - 💞️ I’m looking to collaborate on Angular, Vuejs , Flutter and Nodejs
 - 📫 How to reach me -> abrhamdiriba.ad@gmail.com
 
