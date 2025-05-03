@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning web3.<br>📫 Ask me about Anything(Coding, AI, Blockchain, Problem Solving, Politics, Space, Movies)<br>🙂 Fun Fact: Its dark out there.
+<br>🌱 I’m currently learning web3.<br>📫 Ask me about Anything(Coding, AI, Blockchain, Problem Solving, Politics, Space, Movies)<br>
 
 
 ## 🌐 Socials:
