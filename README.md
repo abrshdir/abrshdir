@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm currently working on Machine Learning<br>💞️ I’m looking to collaborate on Angular, Flutter and Nodejs<br>🌱 I’m currently learning web3.<br>📫 Ask me about Anything(Coding, AI, Blockchain, Problem Solving, Politics, Space, Movies)<br>🙂 Fun Fact: Its dark out there.
+<br>🌱 I’m currently learning web3.<br>📫 Ask me about Anything(Coding, AI, Blockchain, Problem Solving, Politics, Space, Movies)<br>🙂 Fun Fact: Its dark out there.
 
 
 ## 🌐 Socials:
