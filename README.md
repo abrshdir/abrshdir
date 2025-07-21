@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning web3.<br>📫 Ask me about Anything(Coding, AI, Blockchain, Problem Solving, Politics, Space, Movies)<br>
+<br>🌱 I am a full-stack and master of web3 developer.<br>📫 Ask me about Anything(Coding, AI, Blockchain, Problem Solving, Politics, Space, Movies)<br>
 
 
 ## 🌐 Socials:
